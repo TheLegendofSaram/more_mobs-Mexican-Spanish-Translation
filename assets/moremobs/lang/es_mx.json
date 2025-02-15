@@ -1,0 +1,36 @@
+{
+  "moremobs.midnightconfig.title": "Configuración de More Mobs",
+  "moremobs.midnightconfig.empty": "",
+  "moremobs.midnightconfig.configure_ingame": "§dℹ Info:§r§f Para configurar este paquete de datos en un mundo específico,",
+  "moremobs.midnightconfig.configure_ingame2": "únete a un mundo y ejecuta el comando §o/function more_mobs:settings§r.",
+  "moremobs.midnightconfig.empty2": "",
+  "moremobs.midnightconfig.global_settings": "§n§l-=- Configuración Global -=-",
+  "moremobs.midnightconfig.info": "§dℹ Info:§r§f Estas configuraciones se aplicarán a todos los mundos globalmente.",
+  "moremobs.midnightconfig.info2": "Asegúrate de volver a unirte a cualquier mundo para que la configuración global surta efecto.",
+  "moremobs.midnightconfig.empty3": "",
+  "moremobs.midnightconfig.empty4": "",
+
+  "moremobs.midnightconfig.enable_heads": "Habilitar Cabezas Personalizadas",
+  "moremobs.midnightconfig.enable_heads.tooltip": "Predeterminado: §aSí§f\nSi está habilitado, se darán cabezas de jugador personalizadas a los mobs humanoides compatibles.",
+  "moremobs.midnightconfig.enable_head_drops": " └ Dejar caer Cabezas Personalizadas",
+  "moremobs.midnightconfig.enable_head_drops.tooltip": "Predeterminado: §aSí§f\nLas Cabezas Personalizadas deben estar habilitadas para que esta configuración tenga efecto",
+  "moremobs.midnightconfig.enable_additional_loot": "Agregar botín adicional a algunos mobs",
+  "moremobs.midnightconfig.enable_additional_loot.tooltip": "Predeterminado: §aSí§f\nEsto incluye, por ejemplo, herramientas de bajo valor y botín de pesca de bajo valor",
+  "moremobs.midnightconfig.enable_additional_valuable_loot": " └ Agregar botín valioso adicional",
+  "moremobs.midnightconfig.enable_additional_valuable_loot.tooltip": "Predeterminado: §aSí§f\nEsto incluye, por ejemplo, Aliento de Dragón, Tótem de la Inmortalidad y Elytra",
+  "moremobs.midnightconfig.enable_upside_down_spiders": "Habilitar arañas al revés",
+  "moremobs.midnightconfig.enable_upside_down_spiders.tooltip": "Predeterminado: §aSí§f\nSi está habilitado, las arañas se voltearán al revés cuando cuelguen del techo\nSolo para versiones anteriores a Minecraft 1.20.3",
+  "moremobs.midnightconfig.enable_let_undead_mobs_burn_in_daylight": "Permitir que los mobs con cabezas personalizadas se quemen a la luz del día",
+  "moremobs.midnightconfig.enable_let_undead_mobs_burn_in_daylight.tooltip": "Predeterminado: §aSí§f\nSi está habilitado, los mobs no muertos con cabezas personalizadas se quemarán a la luz del día\nSolo para Minecraft 1.19.4+",
+
+  "moremobs.midnightconfig.enum.bool.WORLD": "§bEspecífico del Mundo",
+  "moremobs.midnightconfig.enum.bool.YES": "§a[✔] Sí",
+  "moremobs.midnightconfig.enum.bool.NO": "§c[❌] No",
+
+  "modmenu.summaryTranslation.moremobs": "¡Los mobs humanoides obtienen nuevas variantes a través de cabezas de jugador personalizadas o mediante mobs de vainilla no utilizados!",
+  "modmenu.donate": "Donar",
+  "modmenu.modrinth": "Modrinth",
+  "modmenu.curseforge": "CurseForge",
+  "modmenu.youtube": "YouTube",
+  "modmenu.wiki": "Wiki"
+}
